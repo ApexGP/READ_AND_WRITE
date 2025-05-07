@@ -16,15 +16,15 @@
 
 ``` markdown
 essay
-  |
-  |———— beginning (50 words)
-  |
-  |———— body (100 words)
-  |      |———— opinion I
-  |      |———— opinion II
-  |      |———— opinion III
-  |
-  |———— summary (20 ~ 30 words)
+  │
+  ├── beginning (50 words)
+  │
+  ├── body (100 words)
+  │      ├── opinion I
+  │      ├── opinion II
+  │      └──  opinion III
+  │
+  └──  summary (20 ~ 30 words)
 ```
 
 #### 2.1. beginning (首段)
@@ -144,7 +144,7 @@ Artificial intelligence (AI), which has become increasingly `prevalent` in recen
 
 ### 三、读后续写
 
-#### 3.1.知识储备
+#### 3.1. 写法技巧
 在引入读后续写之前，我们先来认识几点概念
 
 ##### 1. ==同一情景描写的多种替换表达==
@@ -191,6 +191,8 @@ Artificial intelligence (AI), which has become increasingly `prevalent` in recen
   ``` markdown
   # 以 `heart` 为主语
   His heart <pounded>, `filled with` uncertainty.
+  # 以 `idea` 为主语，想法通常是一瞬间的事情
+  A splendid idea <flashed> into his mind.
   # 情绪主语化（这个技巧再次出现），并运用夸张的手法
   <Waves of anxiety> `washed over` him, making his stomach `churn`.
   # 句首添加从句
@@ -268,14 +270,14 @@ Artificial intelligence (AI), which has become increasingly `prevalent` in recen
   
   ``` markdown
   读后续写 (200词-250词)
-    |
-    |———— 第一段 (约100词)
-    |      |———— 明确衔接给出情境与原文
-    |      |———— 深入人物内心活动，揭示内心冲突或想法
-    |
-    |———— 第二段 (100词-150词)
-           |———— 人物采取行动或情绪发生转折
-           |———— 推动事件至高潮并顺利收尾，点出主旨或升华内涵
+    │
+    ├── 第一段 (约100词)
+    │      ├── 明确衔接给出情境与原文
+    │      └──  深入人物内心活动，揭示内心冲突或想法
+    │
+    └──  第二段 (100词-150词)
+           ├── 人物采取行动或情绪发生转折
+           └──  推动事件至高潮并顺利收尾，点出主旨或升华内涵
   ```
 
 下面我给出一个示例，以高考真题中常见的“帮助陌生人”为话题帮助你理解行文结构的安排：
@@ -966,7 +968,7 @@ Artificial intelligence (AI), which has become increasingly `prevalent` in recen
     </thead>
     <tbody>
       <tr>
-        <td rowspan="10">表现哭泣状态</td>
+        <td rowspan="9">表现哭泣状态</td>
         <td>cry</td>
         <td>哭泣、叫喊</td>
         <td>She cried when she heard the sad news.</td>
@@ -985,11 +987,6 @@ Artificial intelligence (AI), which has become increasingly `prevalent` in recen
         <td>wail</td>
         <td>哀号、悲鸣</td>
         <td>He wailed in despair after losing his job.</td>
-      </tr>
-      <tr>
-        <td>lament</td>
-        <td>哀悼、悲叹</td>
-        <td>She lamented the loss of her childhood.</td>
       </tr>
       <tr>
         <td>moan</td>
@@ -1017,7 +1014,7 @@ Artificial intelligence (AI), which has become increasingly `prevalent` in recen
         <td>He blubbered like a child after the argument.</td>
       </tr>
       <tr>
-        <td rowspan="10">表现大哭状态</td>
+        <td rowspan="9">表现痛哭状态</td>
         <td>howl</td>
         <td>嚎叫、哭泣</td>
         <td>She howled in grief after the loss.</td>
@@ -1031,11 +1028,6 @@ Artificial intelligence (AI), which has become increasingly `prevalent` in recen
         <td>yowl</td>
         <td>嚎叫、哀号</td>
         <td>She yowled in pain after the injury.</td> 
-      </tr>
-      <tr>
-        <td>bellow</td>
-        <td>吼叫、哀号</td>
-        <td>He bellowed in anguish after the loss.</td>
       </tr>
       <tr>
         <td>roar</td>
@@ -1067,59 +1059,391 @@ Artificial intelligence (AI), which has become increasingly `prevalent` in recen
         <td>吼叫、哀号</td>
         <td>He bellowed in anguish after the loss.</td>
       </tr>
+      </tbody>
+    </table>
+
+介绍完了动词，接下来我将列出一系列表示情感的形容词，你可以在描写时不再局限于常用的词汇，而是可以使用更丰富的表达方式。以下是一些常见的情感形容词及其近义词，供你参考和使用：
+
+- 表示==高兴==的形容词
+
+  <table style="margin: 0 auto; display: block; text-align: center;">
+    <thead>
       <tr>
-        <td>roar</td>
-        <td>咆哮、哭泣</td>
-        <td>She roared with laughter at the absurdity.</td>
+        <th>分类</th>
+        <th>词汇</th>
+        <th>语义</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+      <td rowspan="7">表示欣喜</td>
+        <td>joyful</td>
+        <td>高兴、愉快</td>
       </tr>
       <tr>
-        <td>scream</td>
-        <td>尖叫、哭泣</td>
-        <td>He screamed in terror during the horror movie.</td> 
+        <td>cheerful</td>
+        <td>快活地、高兴</td>
       </tr>
       <tr>
-        <td>screech</td>
-        <td>尖叫、尖声叫</td>
-        <td>She screeched in excitement when she saw the surprise.</td>
+        <td>ecstatic</td>
+        <td>欣喜若狂</td>
       </tr>
       <tr>
-        <td>yelp</td>
-        <td>尖叫、哀号</td>
-        <td>He yelped in pain after stepping on a nail.</td>
+        <td>overjoyed</td>
+        <td>狂喜</td>
       </tr>
       <tr>
-        <td>snivel</td>
-        <td>抽泣、哭泣</td>
-        <td>She sniveled quietly in the corner.</td>
+        <td>beaming</td>
+        <td>喜气洋洋的</td>
       </tr>
       <tr>
-        <td>blubber</td>
-        <td>呜咽、哭泣</td>
-        <td>He blubbered like a child after the argument.</td>
+        <td>blissful</td>
+        <td>充满喜悦的</td>
+      </tr>
+      <tr>
+        <td>jubilant</td>
+        <td>充满喜悦的</td>
+      </tr>
+      <tr>
+      <td rowspan="2">表示满足</td>
+        <td>content</td>
+        <td>满足、满意</td>
+      </tr>
+      <tr>
+        <td>satisfied</td>
+        <td>满意</td>
+      </tr>
+      <tr>
+      <td>表示得意</td>
+        <td>triumphant</td>
+        <td>得意、骄傲</td>
+      </tr>
+      <tr>
+      <td rowspan="3">表示活泼、荣光焕发</td>
+        <td>radiant</td>
+        <td>容光焕发的</td>
+      </tr>
+      <tr>
+        <td>animated</td>
+        <td>活泼的</td>
+      </tr>
+      <tr>
+        <td>spirited</td>
+        <td>有精神的</td>
+      </tr>
+      <tr>
+      <td rowspan="2">表示兴奋</td>
+        <td>thrilled</td>
+        <td>兴奋的</td>
+      </tr>
+      <tr>
+        <td>elated</td>
+        <td>兴高采烈的</td>
       </tr>
       </tbody>
     </table>
 
+- 表示==伤心==的形容词
+  <table style="margin: 0 auto; display: block; text-align: center;">
+    <thead>
+      <tr>
+        <th>分类</th>
+        <th>词汇</th>
+        <th>语义</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td rowspan="6">表示悲伤、沮丧</td>
+        <td>sad</td>
+        <td>悲伤的</td>
+      </tr>
+      <tr>
+        <td>unhappy</td>
+        <td>不开心的</td>
+      </tr>
+      <tr>
+        <td>sorrowful</td>
+        <td>悲痛的</td>
+      </tr>
+      <tr>
+        <td>dejected</td>
+        <td>沮丧的</td>
+      </tr>
+      <tr>
+        <td>despondent</td>
+        <td>失望的、沮丧的</td>
+      </tr>
+      <tr>
+        <td>disheartened</td>
+        <td>灰心丧气的</td>
+      </tr>
+      <tr>
+        <td rowspan="4">表示忧郁、阴郁</td>
+        <td>dismal</td>
+        <td>阴郁的、凄凉的</td>
+      </tr>
+      <tr>
+        <td>gloomy</td>
+        <td>忧郁的、阴暗的</td>
+      </tr>
+      <tr>
+        <td>melancholy</td>
+        <td>忧伤的</td>
+      </tr>
+      <tr>
+        <td>mournful</td>
+        <td>悲哀的、哀悼的</td>
+      </tr>
+      <tr>
+        <td rowspan="5">表示极度伤心</td>
+        <td>heartbroken</td>
+        <td>心碎的、悲痛的</td>
+      </tr>
+      <tr>
+        <td>devastated</td>
+        <td>极度震惊且悲痛的</td>
+      </tr>
+      <tr>
+        <td>grief-stricken</td>
+        <td>极度悲伤的</td>
+      </tr>
+      <tr>
+        <td>anguished</td>
+        <td>极度痛苦的</td>
+      </tr>
+      <tr>
+        <td>woeful</td>
+        <td>悲惨的、哀伤的</td>
+      </tr>
+      <tr>
+        <td rowspan="3">表示孤独、失落</td>
+        <td>forlorn</td>
+        <td>孤苦伶仃的</td>
+      </tr>
+      <tr>
+        <td>crestfallen</td>
+        <td>垂头丧气的</td>
+      </tr>
+      <tr>
+        <td>downcast</td>
+        <td>情绪低落的</td>
+      </tr>
+    </tbody>
+  </table>
 
+- 表示==愤怒==的形容词
 
+  <table style="margin: 0 auto; display: block; text-align: center;">
+    <thead>
+      <tr>
+        <th>分类</th>
+        <th>词汇</th>
+        <th>语义</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td rowspan="7">表示愤怒、狂怒</td>
+        <td>angry</td>
+        <td>生气的</td>
+      </tr>
+      <tr>
+        <td>furious</td>
+        <td>狂怒的</td>
+      </tr>
+      <tr>
+        <td>irate</td>
+        <td>非常生气的</td>
+      </tr>
+      <tr>
+        <td>enraged</td>
+        <td>暴怒的</td>
+      </tr>
+      <tr>
+        <td>incensed</td>
+        <td>被激怒的</td>
+      </tr>
+      <tr>
+        <td>infuriated</td>
+        <td>极为愤怒的</td>
+      </tr>
+      <tr>
+        <td>outraged</td>
+        <td>愤慨的、极度生气的</td>
+      </tr>
+      <tr>
+        <td rowspan="6">表示烦躁、不满</td>
+        <td>annoyed</td>
+        <td>恼怒的</td>
+      </tr>
+      <tr>
+        <td>irritated</td>
+        <td>烦躁的、恼怒的</td>
+      </tr>
+      <tr>
+        <td>peeved</td>
+        <td>气恼的</td>
+      </tr>
+      <tr>
+        <td>miffed</td>
+        <td>稍有不快的</td>
+      </tr>
+      <tr>
+        <td>vexed</td>
+        <td>烦恼的、恼怒的</td>
+      </tr>
+      <tr>
+        <td>disgruntled</td>
+        <td>不满的、不高兴的</td>
+      </tr>
+      <tr>
+        <td rowspan="3">表示强烈怨恨</td>
+        <td>resentful</td>
+        <td>怨恨的</td>
+      </tr>
+      <tr>
+        <td>indignant</td>
+        <td>愤慨的、不平的</td>
+      </tr>
+      <tr>
+        <td>wrathful</td>
+        <td>极度愤怒的</td>
+      </tr>
+    </tbody>
+  </table>
 
+- 表示==害怕==的形容词
 
+  <table style="margin: 0 auto; display: block; text-align: center;">
+    <thead>
+      <tr>
+        <th>分类</th>
+        <th>词汇</th>
+        <th>语义</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td rowspan="7">表示恐惧、害怕</td>
+        <td>afraid</td>
+        <td>害怕的</td>
+      </tr>
+      <tr>
+        <td>scared</td>
+        <td>害怕的</td>
+      </tr>
+      <tr>
+        <td>frightened</td>
+        <td>受惊的、害怕的</td>
+      </tr>
+      <tr>
+        <td>terrified</td>
+        <td>非常害怕的、吓坏的</td>
+      </tr>
+      <tr>
+        <td>horrified</td>
+        <td>极度恐惧的</td>
+      </tr>
+      <tr>
+        <td>alarmed</td>
+        <td>惊恐的</td>
+      </tr>
+      <tr>
+        <td>panicked</td>
+        <td>恐慌的、惊慌失措的</td>
+      </tr>
+      <tr>
+        <td rowspan="6">表示焦虑、不安</td>
+        <td>anxious</td>
+        <td>焦虑的、不安的</td>
+      </tr>
+      <tr>
+        <td>apprehensive</td>
+        <td>忧虑的、担心的</td>
+      </tr>
+      <tr>
+        <td>uneasy</td>
+        <td>不安的</td>
+      </tr>
+      <tr>
+        <td>jittery</td>
+        <td>神经紧张的</td>
+      </tr>
+      <tr>
+        <td>edgy</td>
+        <td>焦躁的</td>
+      </tr>
+      <tr>
+        <td>skittish</td>
+        <td>易受惊吓的</td>
+      </tr>
+      <tr>
+        <td rowspan="4">表示惊吓、震惊</td>
+        <td>startled</td>
+        <td>吃惊的、受惊的</td>
+      </tr>
+      <tr>
+        <td>shaken</td>
+        <td>受到惊吓的</td>
+      </tr>
+      <tr>
+        <td>rattled</td>
+        <td>慌乱的</td>
+      </tr>
+      <tr>
+        <td>unnerved</td>
+        <td>失去勇气的</td>
+      </tr>
+    </tbody>
+  </table>
 
+#### 3.4 范文实例（考场实战）
 
+- 题目
+  阅读下面材料，根据其内容和所给的段落开头续写两段，使之构成一篇完整的短文
+  
+  Lungs nearly bursting, I struggled to lift my head out of the water. Inch by inch, my tired body reached for the end of the pool.
+  The extent of my swimming career was purely recretional, while the competitive swimmer nearby thought nothing of the seemingly simple task of a 500-meter swim test. Pushing myself to finish what I had started, I could only think: why not take the easy way out?
+  Earlier that week, I had turned in my first job application at a local pool. Overqualified, I was hired on the spot. However, the tasks were boring: helping confused visitors and measuring the height of children before they went down the slide, those sorts of things. I was capable of more.
+  So a swim test was required, establishing the mere fact that I was not completely helpless in a pool. Midway through, the manager administrating the test remarked, " This looks really easy for you. Why aren't you applying to become a guard?"
+  "The thought hadn't crossed my mind."
+  "Well, lifeguarding demands more responsibility, strength and respect. Thus the position pays $2 more per hour. Your swimming skills are strong enough, All you need to do is complete a certification class."
+  Inside I was unsure of myself, but his words inspired me-- You never know what you are capable of until you force yourself to do it.
+  Soon I passed the swim test. All left was to practice and learn first aid, CPR and procedures for different land and water-based emergencies.
+  Work started soon. A well-intentioned yet anxious feeling in me soon passed. Days, weeks, and months went by without incident; emergencies were rare. The skills and training I had so carefully studied and acquired seemed unnecessary.
+  Today appeared to be another uneventful day. However shortly after the other guards signaled to the children to exit the pool, I noticed one boy was still in the middle while the others had climbed up.
+  
+  注意：
+  &#9312; 续写词数应为 150-200 词。
+  &#9313; 续写部分分为两段，每段的开头语已为你写好。
+  
+  "Something must have gone wrong with him," I thought to myself.
 
+  ---
+  ---
 
+  Having the boy on the floor, I put my ear to his mouth and my fingers at his neck.
+  
+  ---
+  ---
 
-- **说**：say, tell, speak, express, communicate, convey, articulate, declare, assert, remark, mention, state, inform, announce, whisper, murmur, shout, yell, exclaim, cry out, plead, urge, insist, demand
-- **走**：walk, stride, march, saunter, stroll, trot, dash, jog, run, hurry, rush, scurry, shuffle, tiptoe, glide, wade, wander, roam, meander, trek, navigate, traverse, cross, approach, advance, retreat, flee, escape
-- **看**：see, observe, watch, gaze, stare, glance, glimpse, peer, squint, scrutinize, inspect, survey, scan, study, regard, behold, witness, perceive, discern, detect, notice, spot, recognize, identify, acknowledge, appreciate, understand, comprehend
-- **想**：think, ponder, contemplate, reflect, consider, deliberate, muse, speculate, ruminate, daydream, fantasize, imagine, visualize, envision, foresee, predict, anticipate, expect, assume, conclude, deduce, infer, reason, analyze, evaluate, judge, assess, weigh, deliberate
-- **笑**：smile, grin, beam, chuckle, giggle, laugh, snicker, cackle, chortle, titter, guffaw, roar, howl, bellow, shriek, yelp, cackle, snort, wheeze, titter, cackle, chortle, titter, guffaw, roar, howl, bellow, shriek, yelp, cackle, snort, wheeze
-- **哭**：cry, weep, sob, wail, lament, moan, whimper, whine, snivel, blubber, howl, shriek, yowl, bellow, roar, scream, screech, shriek, yelp, howl, bellow, roar, scream, screech, shriek, yelp, howl, bellow, roar, scream, screech, shriek, yelp
-- **高兴**：happy, joyful, cheerful, delighted, elated, ecstatic, jubilant, content, satisfied, pleased, overjoyed, thrilled, exuberant, buoyant, radiant, gleeful, blissful, euphoric, jubilant, exultant, triumphant, animated, lively, spirited, vivacious, effervescent, sparkling, beaming, glowing, shining
-- **伤心**：sad, unhappy, sorrowful, dejected, despondent, disheartened, dismal, gloomy, melancholy, mournful, woeful, forlorn, crestfallen, downcast, desolate, heartbroken, devastated, grief-stricken, anguished, pained, troubled, distressed, tormented, tortured, afflicted, burdened, weighed down, oppressed, crushed, defeated, dispirited, disheartened, demoralized, despondent
-- **生气**：angry, furious, irate, enraged, incensed, infuriated, outraged, exasperated, annoyed, irritated, peeved, miffed, vexed, disgruntled, displeased, indignant, resentful, wrathful, livid, fuming, seething, boiling over, steaming mad, hot under the collar, worked up, riled up, agitated, stirred up, incensed, inflamed, provoked, exasperated, irked, nettled, peeved, miffed, vexed, disgruntled, displeased
-- **害怕**：afraid, scared, frightened, terrified, horrified, alarmed, panicked, anxious, apprehensive, uneasy, jittery, jumpy, edgy, skittish, spooked, startled, shaken, rattled, unnerved, disconcerted, perturbed, troubled, worried, concerned, fearful, dread-filled, apprehensive, quaking, trembling, quivering, shivering, shaking, sweating, clammy-handed, cold-sweated, heart-pounding, breathless, wide-eyed, slack-jawed, pale-faced, ghostly-white
+- 范文
+  "Something must have gone wrong with him," I thought to myself. An icy grip of fear clenched at my chest as adrenaline surged, washing away any lingering uncertainty. Muscles tensed, instincts took over, propelling the body swiftly toward the struggling figure in the water. Every stroke seemed heavier than the last, yet urgency eclipsed exhaustion. Drawing closer, it became clear: the boy’s arms flailed weakly, his head dipping dangerously beneath the surface. Time slowed, stretching agonizingly as every heartbeat echoed a frantic urgency. Reaching him at last, firm hands grasped the trembling, slippery body, pulling him above the treacherous waterline. Eyes wide and desperate, the boy gasped deeply, coughing violently, tears blending with chlorinated water streaming down his flushed cheeks.
+  
+  Having the boy on the floor, I put my ear to his mouth and my fingers at his neck. As trembling fingers pressed lightly at his pulse, each beat bringing cautious reassurance. Gentle yet authoritative words flowed steadily, "You're safe now, breathe slowly." Moments crawled by until color gradually returned to the boy’s face, accompanied by steadier breaths. Surrounding chatter faded into muffled murmurs, relief palpable in the previously anxious crowd. Rising slowly, a glance toward the manager was met with an affirming nod, silent but heavy with acknowledgment. What initially felt like a routine summer job had crystallized into a profound moment of clarity: life's greatest responsibilities often lie hidden beneath ordinary tasks, quietly awaiting those brave enough to rise when called upon.
 
+- ==点评==：
+  这篇范文符合我在之前几页的提到的全部特征，使用了丰富的动词和形容词，描写了人物的情感变化和内心挣扎。开头部分通过对比和内心独白引入了紧张的情节，结尾则通过细腻的描写和情感升华，展现了主人公在危机中成长的过程。整体结构清晰，情感真挚，句式变化多样，符合高分作文的要求。
+  然而，这篇范文很明显不是考场作文，过多的难词和长难句显示不是能在考场上完成的。你可以试着更换一些更常见的词汇，以及对一些句式进行自己能够意识到的重写
 
+- 下面给出我的重写：
+  "Something must have gone wrong with him," I thought to myself. ==Without hesitation==, my body sprang into action, ==plunging into== the pool, instinctively cutting through the chilly water toward the distressed boy. ==As the distance narrowed==, the situation grew clearer—the boy’s fragile body lay dangerously ==tilted==, his back exposed helplessly to the air, arms thrashing weakly against the relentless waves. ==Panic seized my chest== momentarily, yet determination surged, forcing doubts aside. Reaching him swiftly, gentle yet firm arms ==encircled his trembling frame==, carefully supporting his head above water. With cautious strokes, we ==maneuvered toward== the edge of the pool. My heart hammered against my rib cage, anxiety intertwining with a growing sense of responsibility. “Help me get him out!” My voice, urgent but steady, ==echoed clearly above== the splashing water and murmurs of the bystanders.
+  
+  Having the boy safely on the floor, I put my ear to his mouth and my fingers at his neck. With practiced authority, I ==commanded==, “Everyone, step back! I'm starting CPR.” Drawing a deep, steadying breath, air ==filled== his struggling lungs ==rhythmically==, accompanied by firm compressions against his fragile chest. Seconds dragged into minutes; ==beads of sweat trickled down==, stinging my eyes, muscles aching in protest. Just as despair threatened, someone nearby frantically called emergency services, the air ==thickening with collective worry==. Yet, there was no time to concede defeat. Whispering a silent prayer, hands continued their steady rhythm. Suddenly, the boy’s chest heaved abruptly, his body shaking violently as water spewed forth, ==color rushing back into his once pale cheeks==. Relief cascaded through every tense muscle, exhaustion replaced by deep gratitude. ==In that instant==, amidst the relieved sighs and comforting whispers, realization dawned profoundly: beneath the routine tasks lay life's invaluable lessons—courage emerges in quiet moments, and responsibility ==transforms== ordinary roles into extraordinary opportunities to make a meaningful difference.
 
+---
 
+### 总结
+
+这篇英语作文教程到此告一段落，还有许多素材不便在此内容中展示。这篇文章讲述的是“术”，而非“授人以鱼”，因此我希望你能够反复阅读，自己领悟。只要明白了怎么写，素材的积累不过是量的问题，不足为惧。
